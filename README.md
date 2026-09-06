@@ -9,10 +9,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kripac29&color=8A2BE2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/kripac29?label=Followers&style=flat-square&color=8A2BE2" alt="Followers"/>
-</p>
+
 
 ---
 
